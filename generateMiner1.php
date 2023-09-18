@@ -5,8 +5,8 @@ for($i = 1; $i < 3; $i ++ ) {
 		'{
     "name": "Zeon GT-1X #'. $i .'",
     "description": "BitcoinCode series miner",
-    "image": "https://api.meta-btc.org/nft/images/metaintelp4.png",
-    "image_4K": "https://api.meta-btc.org/nft/images/metaintelp4_hd.png",
+    "image": "https://api.bitcoincode.technology/nft/images/ZeonGT-1X.png",
+    "image_4K": "https://api.bitcoincode.technology/nft/images/ZeonGT-1X.png",
     "attributes": {
         "Version": "GT-1X",
         "HashPower": "1 KW",
